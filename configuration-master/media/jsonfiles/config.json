@@ -1,0 +1,72 @@
+{
+  "category": "TESTCONFIG",
+  "subCategory": "TESTCONFIG"
+  "keyValuePairSets": [
+    {
+      "setKey": "66600",
+      "keyValuePairs": [
+        {
+          "key": "IS_ACTIVE",
+          "value": "TRUE"
+        },
+        {
+          "key": "IS_VERNAC",
+          "value": "FALSE"
+        },
+        {
+          "key": "OVERRIDE_LANG",
+          "value": "FALSE"
+        },
+        {
+          "key": "OVERRIDEPREFERRED",
+          "value": "FALSE"
+        },
+        {
+          "key": "UID_ATTRIBUTE",
+          "value": "CustomerID"
+        },
+        {
+          "key": "USES_REFDATA",
+          "value": "FALSE"
+        },
+        {
+          "key": "OVERRIDE_CIRCLE",
+          "value": "FALSE"
+        }
+      ]
+    },
+	{
+      "setKey": "66601",
+      "keyValuePairs": [
+        {
+          "key": "IS_ACTIVE",
+          "value": "TRUE"
+        },
+        {
+          "key": "IS_VERNAC",
+          "value": "FALSE"
+        },
+        {
+          "key": "OVERRIDE_LANG",
+          "value": "FALSE"
+        },
+        {
+          "key": "OVERRIDEPREFERRED",
+          "value": "FALSE"
+        },
+        {
+          "key": "UID_ATTRIBUTE",
+          "value": "CustomerID"
+        },
+        {
+          "key": "USES_REFDATA",
+          "value": "FALSE"
+        },
+        {
+          "key": "OVERRIDE_CIRCLE",
+          "value": "FALSE"
+        }
+      ]
+    }
+  ]
+}
