@@ -120,6 +120,5 @@ def delete_task(task_id):
     tasks.remove(task[0])
     return jsonify({'result': True})
 
-
 if __name__ == '__main__':
     app.run(debug=True)
